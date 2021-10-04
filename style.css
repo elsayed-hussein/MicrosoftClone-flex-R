@@ -447,10 +447,6 @@ ul {
 }
 
 @media (max-width: 500px) {
-  .home-cards {
-    grid-template-columns: 1fr;
-  }
-
   .links .links-inner ul {
     margin-bottom: 20px;
   }
